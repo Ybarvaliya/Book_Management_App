@@ -4,7 +4,7 @@
 All Operations are done in Database.
 * It is a Simple Book Managment App
 * In which all books are stored in Database. <br>
-you can add book, delete book, update book and see all books, can see 1 book.
+you can add book, delete book, update book and see all books, can see 1 book.<br>
 * To run app:
 1. go to server folder
 2. command: npm i
