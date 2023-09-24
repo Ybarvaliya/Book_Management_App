@@ -8,9 +8,8 @@ you can add book, delete book, update book and see all books, can see 1 book.<br
 * To run app:
 1. go to server folder
 2. command: npm i
-3. command npm i 
-4. Chnage your mongo URL
-5. command: nodemon index.js
-6. in new terminal go to client folder
-7. command: npm i
-8. command: npm run dev
+3. Chnage your mongo URL
+4. command: nodemon index.js
+5. in new terminal go to client folder
+6. command: npm i
+7. command: npm run dev
