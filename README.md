@@ -1,4 +1,4 @@
-# CRUD-MERN-App
+# Book-Management-App
 * It is MERN Stack App in which MongoDB, Express Js, React Js, Node Js is used.
 * other things used: Tailwind CSS, axios, react-router-dom.
 * It is a CRUD App so In the app you can do Create, Read, Update and Delete operations. <br>
